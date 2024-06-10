@@ -18,7 +18,7 @@
         </Grid>
 
         <DockPanel>
-            <!-- Hay que comentar ... -->
+            <!-- Hay que comentar a nivel de desarrollo ... -->
             <StackPanel  DockPanel.Dock="Top"  Orientation="Horizontal"  >
                 <Button x:Name="BNuevo" Click="BNuevo_Click" Background="AntiqueWhite" Content="Nuevo"   VerticalAlignment="Top" Width="105" Margin="3"  FontSize="24" HorizontalAlignment="Left" IsEnabled="False"  />
                 <Button x:Name="BGuardar" Click="BGuardar_Click" Background="AntiqueWhite" Content="Guardar"  VerticalAlignment="Top" Width="105" Margin="3"  FontSize="24" HorizontalAlignment="Left"/>
